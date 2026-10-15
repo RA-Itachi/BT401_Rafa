@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Basura de editores
+*.swp
+*~
